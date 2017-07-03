@@ -1,0 +1,1748 @@
+Intersting. you can sense when the plants pull water. I started watering (1/4 turn) and the soil immediately became wetter, then over time it became dryer.
+I increased the watering (1/2 turn) and it became wetter and over time it became dryer.
+Let's try 3/4 turn...
+
+
+⸮Starting up
+Ischip connected?
+1
+----------- (waiting for a packet to become available)
+AVAILABLE!!
+
+Package:3
+sensed_at (ms):2325
+moisture:1005
+ack_count: 0
+AVAILABLE!!
+
+Package:4
+sensed_at (ms):2442
+moisture:1005
+ack_count: 1
+AVAILABLE!!
+
+Package:5
+sensed_at (ms):2557
+moisture:1005
+ack_count: 2
+AVAILABLE!!
+
+Package:6
+sensed_at (ms):2674
+moisture:1005
+ack_count: 3
+AVAILABLE!!
+
+Package:7
+sensed_at (ms):2790
+moisture:703
+ack_count: 4
+AVAILABLE!!
+
+Package:8
+sensed_at (ms):2907
+moisture:720
+ack_count: 5
+AVAILABLE!!
+
+Package:9
+sensed_at (ms):3023
+moisture:732
+ack_count: 6
+AVAILABLE!!
+
+Package:10
+sensed_at (ms):3139
+moisture:737
+ack_count: 7
+AVAILABLE!!
+
+Package:11
+sensed_at (ms):3256
+moisture:739
+ack_count: 8
+AVAILABLE!!
+
+Package:12
+sensed_at (ms):3372
+moisture:741
+ack_count: 9
+AVAILABLE!!
+
+Package:13
+sensed_at (ms):3488
+moisture:743
+ack_count: 10
+AVAILABLE!!
+
+Package:14
+sensed_at (ms):3604
+moisture:744
+ack_count: 11
+AVAILABLE!!
+
+Package:15
+sensed_at (ms):3721
+moisture:745
+ack_count: 12
+AVAILABLE!!
+
+Package:16
+sensed_at (ms):3836
+moisture:735
+ack_count: 13
+AVAILABLE!!
+
+PHIL: Turned on water (1/4 turn) (23:39)
+
+Package:17
+sensed_at (ms):3953
+moisture:675
+ack_count: 14
+AVAILABLE!!
+
+Package:18
+sensed_at (ms):4119
+moisture:668
+ack_count: 14
+AVAILABLE!!
+
+Package:19
+sensed_at (ms):4285
+moisture:671
+ack_count: 14
+AVAILABLE!!
+
+Package:20
+sensed_at (ms):4451
+moisture:675
+ack_count: 14
+AVAILABLE!!
+
+Package:21
+sensed_at (ms):4617
+moisture:680
+ack_count: 14
+AVAILABLE!!
+
+Package:22
+sensed_at (ms):4783
+moisture:684
+ack_count: 14
+AVAILABLE!!
+
+Package:23
+sensed_at (ms):4948
+moisture:685
+ack_count: 14
+AVAILABLE!!
+
+Package:24
+sensed_at (ms):5115
+moisture:684
+ack_count: 14
+AVAILABLE!!
+
+Package:25
+sensed_at (ms):5281
+moisture:683
+ack_count: 14
+AVAILABLE!!
+
+Package:26
+sensed_at (ms):5447
+moisture:682
+ack_count: 14
+AVAILABLE!!
+
+Package:27
+sensed_at (ms):5613
+moisture:683
+ack_count: 14
+AVAILABLE!!
+
+Package:28
+sensed_at (ms):5779
+moisture:684
+ack_count: 14
+AVAILABLE!!
+
+Package:29
+sensed_at (ms):5945
+moisture:687
+ack_count: 14
+AVAILABLE!!
+
+Package:30
+sensed_at (ms):6111
+moisture:689
+ack_count: 14
+AVAILABLE!!
+
+Package:31
+sensed_at (ms):6277
+moisture:691
+ack_count: 14
+AVAILABLE!!
+
+Package:32
+sensed_at (ms):6443
+moisture:694
+ack_count: 14
+AVAILABLE!!
+
+Package:33
+sensed_at (ms):6608
+moisture:696
+ack_count: 14
+AVAILABLE!!
+
+Package:34
+sensed_at (ms):6775
+moisture:697
+ack_count: 14
+AVAILABLE!!
+
+Package:35
+sensed_at (ms):6941
+moisture:699
+ack_count: 14
+
+Package:36
+sensed_at (ms):7107
+moisture:700
+ack_count: 14
+AVAILABLE!!
+
+Package:37
+sensed_at (ms):7273
+moisture:701
+ack_count: 14
+AVAILABLE!!
+
+PHIL: Turned on water (1/2 turn) (00:03)
+
+Package:38
+sensed_at (ms):7439
+moisture:630
+ack_count: 14
+
+
+Package:39
+sensed_at (ms):7605
+moisture:638
+ack_count: 14
+AVAILABLE!!
+
+Package:40
+sensed_at (ms):7771
+moisture:641
+ack_count: 14
+AVAILABLE!!
+
+Package:41
+sensed_at (ms):7937
+moisture:646
+ack_count: 14
+AVAILABLE!!
+
+Package:42
+sensed_at (ms):8102
+moisture:648
+ack_count: 14
+AVAILABLE!!
+
+Package:43
+sensed_at (ms):8268
+moisture:650
+ack_count: 14
+AVAILABLE!!
+
+Package:44
+sensed_at (ms):8434
+moisture:653
+ack_count: 14
+AVAILABLE!!
+
+Package:45
+sensed_at (ms):8601
+moisture:654
+ack_count: 14
+AVAILABLE!!
+
+Package:46
+sensed_at (ms):8767
+moisture:655
+ack_count: 14
+AVAILABLE!!
+
+Package:47
+sensed_at (ms):8933
+moisture:657
+ack_count: 14
+AVAILABLE!!
+
+Package:48
+sensed_at (ms):9099
+moisture:658
+ack_count: 14
+AVAILABLE!!
+
+Package:49
+sensed_at (ms):9265
+moisture:673
+ack_count: 14
+
+Package:50
+sensed_at (ms):9431
+moisture:673
+ack_count: 14
+AVAILABLE!!
+
+Package:51
+sensed_at (ms):9596
+moisture:674
+ack_count: 14
+AVAILABLE!!
+
+Package:52
+sensed_at (ms):9762
+moisture:662
+ack_count: 14
+AVAILABLE!!
+
+Package:53
+sensed_at (ms):9928
+moisture:669
+ack_count: 14
+AVAILABLE!!
+
+Package:55
+sensed_at (ms):10261
+moisture:671
+ack_count: 14
+
+Package:56
+sensed_at (ms):10427
+moisture:671
+ack_count: 14
+AVAILABLE!!
+
+Package:57
+sensed_at (ms):10593
+moisture:673
+ack_count: 14
+AVAILABLE!!
+
+Package:58
+sensed_at (ms):10759
+moisture:673
+ack_count: 14
+
+Package:59
+sensed_at (ms):10925
+moisture:674
+ack_count: 14
+AVAILABLE!!
+
+Package:60
+sensed_at (ms):11090
+moisture:673
+ack_count: 14
+AVAILABLE!!
+
+Package:61
+sensed_at (ms):11256
+moisture:675
+ack_count: 14
+AVAILABLE!!
+
+Package:62
+sensed_at (ms):11422
+moisture:675
+ack_count: 14
+AVAILABLE!!
+
+Package:63
+sensed_at (ms):11588
+moisture:673
+ack_count: 14
+AVAILABLE!!
+
+Package:64
+sensed_at (ms):11754
+moisture:663
+ack_count: 14
+AVAILABLE!!
+
+Package:65
+sensed_at (ms):11920
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+Package:66
+sensed_at (ms):12087
+moisture:661
+ack_count: 14
+AVAILABLE!!
+
+PHIL: Maybe the plants said "I'm done" at this point??? (00:33) (either these are the plants or this is a limit of the soil??)
+
+Package:67
+sensed_at (ms):12253
+moisture:653
+ack_count: 14
+AVAILABLE!!
+
+Package:68
+sensed_at (ms):12419
+moisture:654
+ack_count: 14
+AVAILABLE!!
+
+Package:69
+sensed_at (ms):12584
+moisture:654
+ack_count: 14
+AVAILABLE!!
+
+Package:70
+sensed_at (ms):12750
+moisture:650
+ack_count: 14
+AVAILABLE!!
+
+Package:73
+sensed_at (ms):13248
+moisture:649
+ack_count: 14
+AVAILABLE!!
+
+Package:74
+sensed_at (ms):13414
+moisture:657
+ack_count: 14
+
+Package:76
+sensed_at (ms):13747
+moisture:657
+ack_count: 14
+AVAILABLE!!
+
+Package:77
+sensed_at (ms):13913
+moisture:658
+ack_count: 14
+AVAILABLE!!
+
+Package:78
+sensed_at (ms):14078
+moisture:659
+ack_count: 14
+
+Package:79
+sensed_at (ms):14244
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+Package:80
+sensed_at (ms):14410
+moisture:659
+ack_count: 14
+
+PHIL: full turn (4/4) just to see if I'm watering the garden or the lawn (filtering out of the garden soil down) (00:45?)
+
+Package:82
+sensed_at (ms):14742
+moisture:658
+ack_count: 14
+AVAILABLE!!
+
+Package:83
+sensed_at (ms):14908
+moisture:660
+ack_count: 14
+AVAILABLE!!
+
+Package:84
+sensed_at (ms):15074
+moisture:661
+ack_count: 14
+
+Package:85
+sensed_at (ms):15240
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+Package:86
+sensed_at (ms):15407
+moisture:660
+ack_count: 14
+
+Package:87
+sensed_at (ms):15572
+moisture:662
+ack_count: 14
+AVAILABLE!!
+
+Package:88
+sensed_at (ms):15738
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+Package:89
+sensed_at (ms):15904
+moisture:657
+ack_count: 14
+AVAILABLE!!
+
+Package:90
+sensed_at (ms):16070
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+Package:91
+sensed_at (ms):16236
+moisture:658
+ack_count: 14
+AVAILABLE!!
+
+Package:92
+sensed_at (ms):16402
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+PHIL: 660 seems to be the limit as to what the garden will accept (01:00)
+
+Package:93
+sensed_at (ms):16568
+moisture:661
+ack_count: 14
+
+Package:94
+sensed_at (ms):16734
+moisture:662
+ack_count: 14
+AVAILABLE!!
+
+Package:97
+sensed_at (ms):17232
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+Package:98
+sensed_at (ms):17398
+moisture:659
+ack_count: 14
+AVAILABLE!!
+
+Package:100
+sensed_at (ms):17730
+moisture:664
+ack_count: 14
+
+PHIL: Was about to think that the water was fully saturated @660 but then it went up to 664... (01:07)
+
+Package:101
+sensed_at (ms):17896
+moisture:662
+ack_count: 14
+AVAILABLE!!
+
+Package:102
+sensed_at (ms):18062
+moisture:665
+ack_count: 14
+AVAILABLE!!
+
+Package:103
+sensed_at (ms):18228
+moisture:663
+ack_count: 14
+AVAILABLE!!
+
+Package:104
+sensed_at (ms):18394
+moisture:664
+ack_count: 14
+AVAILABLE!!
+
+Package:106
+sensed_at (ms):18725
+moisture:665
+ack_count: 14
+AVAILABLE!!
+
+Package:107
+sensed_at (ms):18892
+moisture:662
+ack_count: 14
+
+Package:109
+sensed_at (ms):19224
+moisture:665
+ack_count: 14
+AVAILABLE!!
+
+Package:110
+sensed_at (ms):19390
+moisture:664
+ack_count: 14
+AVAILABLE!!
+
+Package:112
+sensed_at (ms):19722
+moisture:664
+ack_count: 14
+
+Package:113
+sensed_at (ms):19888
+moisture:665
+ack_count: 14
+AVAILABLE!!
+
+Package:114
+sensed_at (ms):20054
+moisture:663
+ack_count: 14
+AVAILABLE!!
+
+Package:115
+sensed_at (ms):20219
+moisture:663
+ack_count: 14
+AVAILABLE!!
+
+Package:116
+sensed_at (ms):20385
+moisture:663
+ack_count: 14
+AVAILABLE!!
+
+Package:117
+sensed_at (ms):20551
+moisture:666
+ack_count: 14
+AVAILABLE!!
+
+Package:118
+sensed_at (ms):20718
+moisture:669
+ack_count: 14
+AVAILABLE!!
+
+Package:121
+sensed_at (ms):21216
+moisture:670
+ack_count: 14
+
+Package:122
+sensed_at (ms):21382
+moisture:663
+ack_count: 14
+AVAILABLE!!
+
+Package:124
+sensed_at (ms):21713
+moisture:666
+ack_count: 14
+AVAILABLE!!
+
+Package:125
+sensed_at (ms):21879
+moisture:670
+ack_count: 14
+AVAILABLE!!
+
+Package:126
+sensed_at (ms):22045
+moisture:673
+ack_count: 14
+
+Package:127
+sensed_at (ms):22211
+moisture:667
+ack_count: 14
+AVAILABLE!!
+
+Package:128
+sensed_at (ms):22378
+moisture:667
+ack_count: 14
+AVAILABLE!!
+
+Package:129
+sensed_at (ms):22544
+moisture:668
+ack_count: 14
+AVAILABLE!!
+
+Package:130
+sensed_at (ms):22710
+moisture:667
+ack_count: 14
+AVAILABLE!!
+
+Package:131
+sensed_at (ms):22876
+moisture:669
+ack_count: 14
+AVAILABLE!!
+
+Package:132
+sensed_at (ms):23042
+moisture:668
+ack_count: 14
+
+Package:133
+sensed_at (ms):23207
+moisture:668
+ack_count: 14
+AVAILABLE!!
+
+Package:137
+sensed_at (ms):23871
+moisture:674
+ack_count: 14
+
+PHIL: It seems like there is no way to saturate the plants.... and it seems like adding water does not saturate them (since the dryness sensor goes up) (1:48) or maybe _this_ is the saturation level?
+
+Package:138
+sensed_at (ms):24038
+moisture:676
+ack_count: 14
+AVAILABLE!!
+
+Package:139
+sensed_at (ms):24204
+moisture:677
+ack_count: 14
+AVAILABLE!!
+
+Package:140
+sensed_at (ms):24370
+moisture:676
+ack_count: 14
+
+Package:140
+sensed_at (ms):24370
+moisture:676
+ack_count: 14
+AVAILABLE!!
+
+Package:141
+sensed_at (ms):24536
+moisture:677
+ack_count: 14
+AVAILABLE!!
+
+Package:142
+sensed_at (ms):24701
+moisture:679
+ack_count: 14
+
+Package:143
+sensed_at (ms):24867
+moisture:680
+ack_count: 14
+AVAILABLE!!
+
+Package:144
+sensed_at (ms):25033
+moisture:678
+ack_count: 14
+AVAILABLE!!
+
+Package:145
+sensed_at (ms):25199
+moisture:679
+ack_count: 14
+
+PHIL: Maybe the soil is saturated at this point? (1:55)
+
+Package:146
+sensed_at (ms):25365
+moisture:678
+ack_count: 14
+AVAILABLE!!
+
+Package:147
+sensed_at (ms):25531
+moisture:680
+ack_count: 14
+
+Package:148
+sensed_at (ms):25697
+moisture:680
+ack_count: 14
+AVAILABLE!!
+
+Package:149
+sensed_at (ms):25864
+moisture:682
+ack_count: 14
+AVAILABLE!!
+
+Package:150
+sensed_at (ms):26030
+moisture:681
+ack_count: 14
+
+Package:151
+sensed_at (ms):26195
+moisture:683
+ack_count: 14
+AVAILABLE!!
+
+Package:152
+sensed_at (ms):26361
+moisture:684
+ack_count: 14
+AVAILABLE!!
+
+PHIL: Turned off water (02:03)
+
+Package:153
+sensed_at (ms):26527
+moisture:698
+ack_count: 14
+
+Package:154
+sensed_at (ms):26693
+moisture:723
+ack_count: 14
+AVAILABLE!!
+
+Package:155
+sensed_at (ms):26859
+moisture:733
+ack_count: 14
+
+Package:156
+sensed_at (ms):27025
+moisture:736
+ack_count: 14
+AVAILABLE!!
+
+Package:157
+sensed_at (ms):27191
+moisture:740
+ack_count: 14
+AVAILABLE!!
+
+Package:158
+sensed_at (ms):27357
+moisture:742
+ack_count: 14
+AVAILABLE!!
+
+Package:159
+sensed_at (ms):27524
+moisture:743
+ack_count: 14
+AVAILABLE!!
+
+Package:160
+sensed_at (ms):27689
+moisture:743
+ack_count: 14
+AVAILABLE!!
+
+Package:161
+sensed_at (ms):27855
+moisture:745
+ack_count: 14
+
+Package:162
+sensed_at (ms):28021
+moisture:745
+ack_count: 14
+AVAILABLE!!
+
+Package:163
+sensed_at (ms):28187
+moisture:745
+ack_count: 14
+AVAILABLE!!
+
+Package:164
+sensed_at (ms):28353
+moisture:745
+ack_count: 14
+AVAILABLE!!
+
+Package:165
+sensed_at (ms):28519
+moisture:746
+ack_count: 14
+AVAILABLE!!
+
+Package:166
+sensed_at (ms):28685
+moisture:746
+ack_count: 14
+AVAILABLE!!
+
+Package:167
+sensed_at (ms):28851
+moisture:747
+ack_count: 14
+AVAILABLE!!
+
+Package:168
+sensed_at (ms):29017
+moisture:747
+ack_count: 14
+AVAILABLE!!
+
+Package:169
+sensed_at (ms):29182
+moisture:747
+ack_count: 14
+AVAILABLE!!
+
+Package:170
+sensed_at (ms):29349
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:171
+sensed_at (ms):29515
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:172
+sensed_at (ms):29681
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:173
+sensed_at (ms):29847
+moisture:748
+ack_count: 14
+
+Package:174
+sensed_at (ms):30013
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:175
+sensed_at (ms):30179
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:176
+sensed_at (ms):30345
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:177
+sensed_at (ms):30511
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:178
+sensed_at (ms):30676
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:179
+sensed_at (ms):30842
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:180
+sensed_at (ms):31009
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:181
+sensed_at (ms):31175
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:182
+sensed_at (ms):31341
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:183
+sensed_at (ms):31507
+moisture:749
+ack_count: 14
+AVAILABLE!!
+
+Package:184
+sensed_at (ms):31673
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:185
+sensed_at (ms):31839
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:186
+sensed_at (ms):32005
+moisture:749
+ack_count: 14
+AVAILABLE!!
+
+Package:187
+sensed_at (ms):32171
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:188
+sensed_at (ms):32336
+moisture:749
+ack_count: 14
+AVAILABLE!!
+
+Package:189
+sensed_at (ms):32502
+moisture:749
+ack_count: 14
+
+Package:190
+sensed_at (ms):32669
+moisture:749
+ack_count: 14
+AVAILABLE!!
+
+Package:191
+sensed_at (ms):32835
+moisture:748
+ack_count: 14
+AVAILABLE!!
+
+Package:192
+sensed_at (ms):33001
+moisture:749
+ack_count: 14
+AVAILABLE!!
+
+Package:193
+sensed_at (ms):33167
+moisture:749
+ack_count: 14
+AVAILABLE!!
+
+Package:194
+sensed_at (ms):33333
+moisture:749
+ack_count: 14
+AVAILABLE!!
+
+Package:195
+sensed_at (ms):33499
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:196
+sensed_at (ms):33665
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:197
+sensed_at (ms):33830
+moisture:750
+ack_count: 14
+
+Package:198
+sensed_at (ms):33996
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:199
+sensed_at (ms):34162
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:200
+sensed_at (ms):34329
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:201
+sensed_at (ms):34495
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:202
+sensed_at (ms):34661
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:203
+sensed_at (ms):34827
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:204
+sensed_at (ms):34993
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:205
+sensed_at (ms):35159
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:206
+sensed_at (ms):35324
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:207
+sensed_at (ms):35490
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:208
+sensed_at (ms):35656
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:209
+sensed_at (ms):35822
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:210
+sensed_at (ms):35988
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:211
+sensed_at (ms):36155
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:212
+sensed_at (ms):36321
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:213
+sensed_at (ms):36487
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:214
+sensed_at (ms):36653
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:215
+sensed_at (ms):36818
+moisture:750
+ack_count: 14
+AVAILABLE!!
+
+Package:216
+sensed_at (ms):36984
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:217
+sensed_at (ms):37150
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:218
+sensed_at (ms):37316
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:219
+sensed_at (ms):37482
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:220
+sensed_at (ms):37648
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:221
+sensed_at (ms):37815
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:222
+sensed_at (ms):37981
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:223
+sensed_at (ms):38147
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:224
+sensed_at (ms):38312
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:225
+sensed_at (ms):38478
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:226
+sensed_at (ms):38644
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+ackage:227
+sensed_at (ms):38810
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:230
+sensed_at (ms):39308
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:231
+sensed_at (ms):39475
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:232
+sensed_at (ms):39641
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:233
+sensed_at (ms):39806
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:234
+sensed_at (ms):39972
+moisture:751
+ack_count: 14
+AVAILABLE!!
+
+Package:235
+sensed_at (ms):40138
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:236
+sensed_at (ms):40304
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:237
+sensed_at (ms):40470
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:238
+sensed_at (ms):40636
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:239
+sensed_at (ms):40802
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:240
+sensed_at (ms):40968
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:241
+sensed_at (ms):41134
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:242
+sensed_at (ms):41300
+moisture:752
+ack_count: 14
+AVAILABLE!!
+
+Package:243
+sensed_at (ms):41466
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:244
+sensed_at (ms):41632
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:245
+sensed_at (ms):41798
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:246
+sensed_at (ms):41964
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:247
+sensed_at (ms):42130
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:248
+sensed_at (ms):42296
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:249
+sensed_at (ms):42462
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:250
+sensed_at (ms):42628
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:251
+sensed_at (ms):42793
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:252
+sensed_at (ms):42960
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:253
+sensed_at (ms):43126
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:254
+sensed_at (ms):43292
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:255
+sensed_at (ms):43458
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:256
+sensed_at (ms):43624
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:257
+sensed_at (ms):43790
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:258
+sensed_at (ms):43956
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:259
+sensed_at (ms):44122
+moisture:753
+ack_count: 14
+AVAILABLE!!
+
+Package:260
+sensed_at (ms):44288
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:261
+sensed_at (ms):44453
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:262
+sensed_at (ms):44620
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:263
+sensed_at (ms):44786
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:264
+sensed_at (ms):44952
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:265
+sensed_at (ms):45118
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:266
+sensed_at (ms):45284
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:267
+sensed_at (ms):45450
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:268
+sensed_at (ms):45616
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:269
+sensed_at (ms):45782
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:270
+sensed_at (ms):45947
+moisture:754
+ack_count: 14
+AVAILABLE!!
+
+Package:271
+sensed_at (ms):46113
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:272
+sensed_at (ms):46279
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:273
+sensed_at (ms):46446
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:274
+sensed_at (ms):46612
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:275
+sensed_at (ms):46778
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:276
+sensed_at (ms):46944
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:277
+sensed_at (ms):47110
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:278
+sensed_at (ms):47276
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:279
+sensed_at (ms):47441
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:280
+sensed_at (ms):47607
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:281
+sensed_at (ms):47773
+moisture:755
+ack_count: 14
+AVAILABLE!!
+
+Package:282
+sensed_at (ms):47939
+moisture:756
+ack_count: 14
+
+PHIL: still off, logging data @ 4:18a (central) (turning off the sensor entirely)
+
+Package:283
+sensed_at (ms):48106
+moisture:756
+ack_count: 14
+AVAILABLE!!
+
+Package:284
+sensed_at (ms):48272
+moisture:756
+ack_count: 14
+AVAILABLE!!
+
+Package:285
+sensed_at (ms):48438
+moisture:756
+ack_count: 14
+AVAILABLE!!
+
+PHIL: pulling the sensor out of the ground (4:22?)
+
+Package:286
+sensed_at (ms):48604
+moisture:948
+ack_count: 14
+AVAILABLE!!
+
+Package:287
+sensed_at (ms):48719
+moisture:942
+ack_count: 15
+
+
+PHIL: Turned off for the night -----------------------
+PHIL: plugged back in to watch the soil dry 11:26
+
+
+⸮Starting up
+Ischip connected?
+1
+----------- (waiting for a packet to become available)
+AVAILABLE!!
+
+Package:2
+sensed_at (ms):2157
+moisture:761
+ack_count: 0
+AVAILABLE!!
+
+Package:3
+sensed_at (ms):2274
+moisture:792
+ack_count: 1
+AVAILABLE!!
+
+Package:4
+sensed_at (ms):2440
+moisture:802
+ack_count: 1
+AVAILABLE!!
+
+Package:5
+sensed_at (ms):2606
+moisture:806
+ack_count: 1
+AVAILABLE!!
+
+Package:6
+sensed_at (ms):2771
+moisture:808
+ack_count: 1
+AVAILABLE!!
+
+Package:7
+sensed_at (ms):2922
+moisture:810
+ack_count: 2
+AVAILABLE!!
+
+Package:8
+sensed_at (ms):3053
+moisture:811
+ack_count: 3
+AVAILABLE!!
+
+Package:9
+sensed_at (ms):3170
+moisture:812
+ack_count: 4
+AVAILABLE!!
+
+Package:10
+sensed_at (ms):3286
+moisture:812
+ack_count: 5
+AVAILABLE!!
+
+Package:11
+sensed_at (ms):3448
+moisture:813
+ack_count: 6
+AVAILABLE!!
+
+Package:12
+sensed_at (ms):3576
+moisture:813
+ack_count: 7
+AVAILABLE!!
+
+Package:13
+sensed_at (ms):3742
+moisture:814
+ack_count: 7
+AVAILABLE!!
+
+Package:14
+sensed_at (ms):3908
+moisture:814
+ack_count: 7
+AVAILABLE!!
+
+Package:15
+sensed_at (ms):4074
+moisture:814
+ack_count: 7
+AVAILABLE!!
+
+Package:16
+sensed_at (ms):4240
+moisture:814
+ack_count: 7
+AVAILABLE!!
+
+Package:17
+sensed_at (ms):4406
+moisture:815
+ack_count: 7
+AVAILABLE!!
+
+Package:18
+sensed_at (ms):4572
+moisture:815
+ack_count: 7
+AVAILABLE!!
+
+Package:19
+sensed_at (ms):4738
+moisture:815
+ack_count: 7
+AVAILABLE!!
+
+Package:20
+sensed_at (ms):4904
+moisture:816
+ack_count: 7
+AVAILABLE!!
+
+Package:21
+sensed_at (ms):5070
+moisture:816
+ack_count: 7
+AVAILABLE!!
+
+Package:22
+sensed_at (ms):5236
+moisture:816
+ack_count: 7
+AVAILABLE!!
+
+Package:24
+sensed_at (ms):5568
+moisture:816
+ack_count: 7
+
+PHIL: Turned off for the day -----------------------

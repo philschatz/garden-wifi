@@ -29,7 +29,7 @@ void setup()
     myRadio.setAutoAck(true); // Try this & see if it consistently works when rebooted
 
   myRadio.setChannel(115);  // 115
-  myRadio.setPALevel(RF24_PA_MIN);
+  myRadio.setPALevel(RF24_PA_MAX);
   myRadio.setDataRate( RF24_250KBPS ) ; 
   myRadio.openReadingPipe(1, addresses[0]);
 

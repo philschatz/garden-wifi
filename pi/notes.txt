@@ -1,0 +1,23 @@
+Download https://github.com/nRF24/RF24/releases/tag/v1.3.0 and unzip it into this directory.
+
+For raspberry Pi: cd into the RF24.... directory and run ./configure --driver=SPIDEV
+ && make && sudo make install -B
+- https://tmrh20.github.io/RF24/RPi.html
+- http://www.airspayce.com/mikem/bcm2835/
+  - http://www.airspayce.com/mikem/bcm2835/bcm2835-1.52.tar.gz
+  tar zxvf bcm2835-1.xx.tar.gz
+  cd bcm2835-1.xx
+  ./configure
+  make
+  sudo make check
+  sudo make install
+
+For pin setup: https://en.wikipedia.org/wiki/Raspberry_Pi#General_purpose_input-output_.28GPIO.29_connector
+
+To compile: g++ -o ./just-something -lrf24 ./just-something.cpp && sudo ./just-something
+
+g++ -o ./is-connected -lrf24 ./is-connected.cpp && sudo ./is-connected
+
+
+
+cd ~/garden-wifi/pi/; g++ -o ./is-connected -lrf24 ./is-connected.cpp && sudo ./is-connected
